@@ -4,7 +4,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3150070683691107/6185838666",
       "main_ads_intertitial":"ca-app-pub-3150070683691107/8620430310",
       "backup_ads_banner":"fbd813d5fbac0792",
