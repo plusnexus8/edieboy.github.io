@@ -1,3 +1,5 @@
+
+
 {
   "Ads": [
     {
@@ -5,12 +7,12 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-8800844328426899/2527972013",
       "main_ads_intertitial":"ca-app-pub-8800844328426899/8658266091",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"97d37278ccd2e3a0",
+      "backup_ads_intertitial":"ae21eb357ea1fbca",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "interval_intertitial": 6,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "asuransi",
